@@ -1,1 +1,7 @@
 blank_issues_enabled: false
+  - name: Sérülékenység, exploit jelentése
+    url: https://github.com/AuroraCraftDev/AuroraCraft-Issues/security
+    about: Itt jelentsd, ha kihasználható sérülékenységet találtál a szerveren.
+  - name: Discord szerverünk
+    url: https://discord.com/invite/3Ky8ssKC3F
+    about: A fejlesztőket és a közösséget Discordon is elérheted.
